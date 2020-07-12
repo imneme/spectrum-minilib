@@ -1,6 +1,6 @@
 # ZX Spectrum MiniLib
 
-A very small alternative ZX Spectrum CRT library z88dk.
+A very small alternative ZX Spectrum CRT library for z88dk.
 
 This library is designed to provide support for Z88DK C development on
 the ZX Spectrum and ZX Spectrum Next that aims for minimal memory use
